@@ -44,9 +44,6 @@ public class Main {
 
         Rectangle r = new Rectangle(height, length);
         System.out.println(r.calculateArea());
-        System.out.println(r.calculateArea());
-        System.out.println(r.calculateArea());
-        System.out.println(r.calculateArea());
 
 
     }
